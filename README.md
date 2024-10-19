@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @evairson
+- 💼 I'm a Full Stack Developer in mobile app, web, automation and scripts
